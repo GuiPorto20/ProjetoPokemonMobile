@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Pokédex FATEC",
+    "slug": "pokedex-fatec",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "softwareKeyboardLayoutMode": "resize"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
